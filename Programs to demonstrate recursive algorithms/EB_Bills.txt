@@ -1,0 +1,9 @@
+Units used: 95
+Bill amount: 0
+
+Units used: 175
+Bill amount: 225
+
+Units used: 555
+Bill amount: 1775
+
